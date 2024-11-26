@@ -1,0 +1,15 @@
+# Игнорируем виртуальное окружение
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Игнорируем кеши Pytest
+.pytest_cache/
+
+# Игнорируем кеши Python
+__pycache__/
+
+# Другие временные файлы
+*.log
+*.tmp
+.DS_Store
